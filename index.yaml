@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  config_server:
+  - apiVersion: v2
+    created: "2023-12-22T18:51:08.954336532+01:00"
+    description: Helm Subchart "config_server" for iksde-wro
+    digest: af9bc967ee5aaa320f655f4b1adfdae7f432c7979c858c584390eb57de46fdb4
+    name: config_server
+    type: application
+    urls:
+    - config_server-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-22T18:51:08.954055959+01:00"
